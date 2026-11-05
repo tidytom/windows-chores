@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+# Log the stopwatch writes (normally in Documents)
+stopwatch_log.txt
