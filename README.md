@@ -2,8 +2,6 @@
 
 A chores timer: a Windows-style stopwatch with laps, fastest and slowest lap markers, averages, a small always-on-top widget and an automatic text log, for anyone who times repeated tasks.
 
-> Screenshot: add `docs/screenshot.png` (placeholder line — leave it exactly like this for GUI apps)
-
 ## What it does
 - Times laps: when you press **Lap**, the lap is saved and the large timer starts again at `00:00:00.00`.
 - Shows every lap in a table with the lap time, the total time so far and the average so far.
